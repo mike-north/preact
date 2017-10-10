@@ -39,7 +39,7 @@
   "eslintConfig": {
     "extends": "./config/eslint-config.js"
   },
-  "typings": "./dist/preact.d.ts",
+  "typings": "./src/preact.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/developit/preact.git"
